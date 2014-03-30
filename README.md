@@ -1,4 +1,5 @@
-Online-Survey-System
+Survey-Board
 ====================
 
-A web platform , for organizing a survey,feedback of a products by the peoples,for the peoples.
+SurveyBoard is an online survey system for create and publish online surveys in minutes, and view results graphically and in real time. 
+

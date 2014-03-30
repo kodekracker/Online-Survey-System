@@ -15,14 +15,14 @@ namespace Online_Survey_System.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Everything You Wanted to Know, But Were Afraid to Ask";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "SurveyBoard Ltd.";
 
             return View();
         }
